@@ -62,5 +62,5 @@ def in_class_total(grade_lists):
 
 if __name__ == '__main__':
     print("----------------------------------")
-    print("SE 342:")
+    print("Insert name of class here:")
     print("Grade to date: ")
